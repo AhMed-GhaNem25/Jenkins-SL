@@ -1,7 +1,12 @@
-<sharedLibraryVersion>
-    <name>my-shared-library</name>
-    <version>1.0.0</version>
-    <description>This is the version 1.0.0 of my shared library.</description>
-    <author>Ghanem</author>
-    <date>2024-08-05</date>
-</sharedLibraryVersion>
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JavaModule" version="1.0">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="my-shared-lib" level="project" />
+  </component>
+    
