@@ -1,0 +1,7 @@
+<sharedLibraryVersion>
+    <name>my-shared-library</name>
+    <version>1.0.0</version>
+    <description>This is the version 1.0.0 of my shared library.</description>
+    <author>Ghanem</author>
+    <date>2024-08-05</date>
+</sharedLibraryVersion>
